@@ -83,22 +83,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/getLocation/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="24" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1314">
+            <state line="76" column="16" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.7567568" vertical-offset="1088" max-vertical-offset="2016">
               <folding>
-                <element signature="e#1389#2247#0" expanded="true" />
-                <element signature="e#2236#2237#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1024#1882#0" expanded="true" />
+                <element signature="e#1871#1872#0" expanded="true" />
+                <element signature="e#2118#2126#0" expanded="true" />
+                <element signature="e#2180#2188#0" expanded="true" />
+                <element signature="e#2250#2263#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GPSTracker.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GPSTracker.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/getLocation/GPSTracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="202" column="1" selection-start="6249" selection-end="6249" vertical-scroll-proportion="0.9060052" vertical-offset="3289" max-vertical-offset="3744">
+            <state line="189" column="13" selection-start="6005" selection-end="6005" vertical-scroll-proportion="0.0" vertical-offset="3289" max-vertical-offset="3744">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#5250#5515#0" expanded="true" />
@@ -181,7 +185,16 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getLocation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,88 +210,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="getLocation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -565,8 +496,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="2106">
           <folding>
-            <element signature="e#1389#2247#0" expanded="true" />
-            <element signature="e#2236#2237#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1024#1882#0" expanded="true" />
+            <element signature="e#1871#1872#0" expanded="true" />
+            <element signature="e#2118#2126#0" expanded="true" />
+            <element signature="e#2180#2188#0" expanded="true" />
+            <element signature="e#2250#2263#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -632,25 +567,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/getLocation/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="24" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1314">
-          <folding>
-            <element signature="e#1389#2247#0" expanded="true" />
-            <element signature="e#2236#2237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/getLocation/GPSTracker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="202" column="1" selection-start="6249" selection-end="6249" vertical-scroll-proportion="0.9060052" vertical-offset="3289" max-vertical-offset="3744">
+        <state line="189" column="13" selection-start="6005" selection-end="6005" vertical-scroll-proportion="0.0" vertical-offset="3289" max-vertical-offset="3744">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#5250#5515#0" expanded="true" />
             <element signature="e#5504#5505#0" expanded="true" />
             <element signature="e#5604#5769#0" expanded="true" />
             <element signature="e#5758#5759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/getLocation/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="16" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.7567568" vertical-offset="1088" max-vertical-offset="2016">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1024#1882#0" expanded="true" />
+            <element signature="e#1871#1872#0" expanded="true" />
+            <element signature="e#2118#2126#0" expanded="true" />
+            <element signature="e#2180#2188#0" expanded="true" />
+            <element signature="e#2250#2263#0" expanded="true" />
           </folding>
         </state>
       </provider>
